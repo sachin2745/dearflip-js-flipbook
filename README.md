@@ -1,4 +1,12 @@
-# [DearFlip jQuery/JS Flipbook Plugin](https://js.dearflip.com/)
+# Welcome to DearFlip Repository
+Welcome to DearFlip Repository.
+This repo is public for the purpose of:
+1. Lite(non-commercial) version of DearFlip js/jQuery Flipbook
+2. Discussion for all the versions of DearFlip - Wordpress/js/Desktop/chrome extension/desktop edition
+
+Note: DearFlip is a front end javascript pdf viewer/flipbook solution and is also implemented in Wordpress/chrome/joomla for it's easy use in their respective environment.
+
+## [DearFlip jQuery/JS Flipbook Plugin](https://js.dearflip.com/)
 Create realistic 3D FlipBook from PDF or images using jQuery powered DearFlip plugin. DearFlip creates PDF FLipbooks and Image Flipbook with 3D modes and 2D modes. This is JS/jQuery port of [DearFlip FLipbook/PDF Viewer](https://dearflip.com/) solution.
 
 **Related Solutions:** jQuery flipbook, JS flipbook, PDF flipbook, JavaScript flipbook
